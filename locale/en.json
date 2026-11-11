@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Sidebar panel fold",
+    "description": "Adds a disclosure row above the sidebar panel list that folds the panel entries away and restores them."
+  }
+}
